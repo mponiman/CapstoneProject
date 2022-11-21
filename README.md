@@ -1,13 +1,11 @@
 # Instacart Market Basket Analysis
 
-My project is about identify customer preferences, recommend product to customer and predict customer next order. The data is taken from Kaggle: Instacart Market Basket Analysis. To read my project, please read in the following order:
+This repository is my capstone project at BrainStation. It is about recommender on e-commerce, Instacart. The data is taken from Kaggle: Instacart Market Basket Analysis. The dataset contains more than 33M data. The problem statement is about identifying customer preferences, recommending product to customer and predicting customer next order. To read my project, please read in **Data Analysis** folder in the following order:
+- `Report.pdf` : the report of all analysis
+- `1_EDA.ipynb` : conducting exploratory data analysis on the data
+- `2_FeatureEngineer.ipynb` : performing feature engineer 
+- `3_MarketBasket.ipynb`: identifying customer pattern using market basket analysis
+- `4_Collaborative.ipnyb`: recommending products based on collaborative filtering
+- `5_PredictReorder.ipynb`: predicting what the customer will reorder next
 
-Data Analysis:
-- Report.pdf : the report of everything
-- 1_EDA.ipynb : exploratory data analysis
-- 2_FeatureEngineer.ipynb : some feature engineer 
-- 3_MarketBasket.ipynb: market basket analysis
-- 4_Collaborative.ipnyb: collaborative filtering
-- 5_PredictReorder.ipynb: predicting reorder
-- requirement.text: the requirement for conda
 
